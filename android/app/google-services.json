@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "949564821391",
+    "project_id": "marvel-catalogo",
+    "storage_bucket": "marvel-catalogo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949564821391:android:d0bf789923e332f4b905fa",
+        "android_client_info": {
+          "package_name": "br.edu.unidep.computacaomovel.marvelcatalogo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949564821391-jottbuhu7a8n6bh1sqer1pofbnte46ps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.edu.unidep.computacaomovel.marvelcatalogo",
+            "certificate_hash": "ed0a25d5db86599b6c490fb4f5e762bbb5e31ddd"
+          }
+        },
+        {
+          "client_id": "949564821391-6q7m6caprhhv1pvv1ehl1i7g2encb9a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRKMsjdzHm6jb6Zy1QHhRcQc68GkbAQU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949564821391-6q7m6caprhhv1pvv1ehl1i7g2encb9a9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
